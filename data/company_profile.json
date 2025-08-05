@@ -1,0 +1,170 @@
+{
+  "company": {
+    "name": "Allbirds",
+    "industry": "Sustainable Footwear",
+    "founded": "2016",
+    "headquarters": "San Francisco, CA",
+    "mission": "To make better things in a better way",
+    "tagline": "The world's most comfortable shoes"
+  },
+  "brand_positioning": {
+    "core_values": ["sustainability", "comfort", "simplicity", "transparency"],
+    "target_audience": "Environmentally conscious consumers seeking comfortable, premium footwear",
+    "brand_personality": ["authentic", "thoughtful", "innovative", "accessible", "earth-friendly"],
+    "competitive_advantage": "Carbon-negative sustainable materials with superior comfort"
+  },
+  "product_portfolio": {
+    "categories": [
+      {
+        "name": "Tree Collection",
+        "material": "Eucalyptus tree fiber",
+        "products": ["Tree Runners", "Tree Breezers", "Tree Dashers", "Tree Flyers"],
+        "seasonality": "Year-round with seasonal preferences",
+        "price_range": "$98-$140"
+      },
+      {
+        "name": "Wool Collection", 
+        "material": "Merino wool",
+        "products": ["Wool Runners", "Wool Pipers", "Wool Loungers"],
+        "seasonality": "Fall/Winter focused",
+        "price_range": "$98-$135"
+      },
+      {
+        "name": "Cotton Collection",
+        "material": "Organic cotton",
+        "products": ["Tree Toppers", "Tree Skippers"],
+        "seasonality": "Spring/Summer",
+        "price_range": "$78-$98"
+      }
+    ],
+    "replacement_cycle": "12-18 months for active users",
+    "complementary_products": ["socks", "insoles", "shoe care"]
+  },
+  "brand_voice": {
+    "tone": "friendly, conversational, educational",
+    "messaging_principles": [
+      "Lead with benefits, not features",
+      "Educate about sustainability impact", 
+      "Emphasize comfort and lifestyle fit",
+      "Use simple, jargon-free language",
+      "Show, don't just tell"
+    ],
+    "avoid": ["pushy sales language", "complex technical terms", "guilt-based messaging", "false urgency"],
+    "communication_style": {
+      "warmth_level": "high",
+      "formality": "casual-professional",
+      "sustainability_focus": "integrated naturally",
+      "product_focus": "benefit-driven"
+    }
+  },
+  "customer_segments": {
+    "eco_conscious_professional": {
+      "demographics": "25-45, urban, college-educated, $50K+ income",
+      "motivations": ["environmental impact", "professional appearance", "comfort"],
+      "pain_points": ["finding sustainable options", "comfort vs style trade-offs"],
+      "messaging_approach": "sustainability impact + professional versatility"
+    },
+    "active_lifestyle_enthusiast": {
+      "demographics": "22-40, suburban/urban, active lifestyle",
+      "motivations": ["performance", "comfort", "versatility"],
+      "pain_points": ["shoes that don't perform", "frequent replacements needed"],
+      "messaging_approach": "performance benefits + durability"
+    },
+    "conscious_parent": {
+      "demographics": "28-50, family-focused, value-driven purchases",
+      "motivations": ["family health", "environmental legacy", "durability"],
+      "pain_points": ["kids outgrowing shoes", "family budget considerations"],
+      "messaging_approach": "family values + long-term value"
+    },
+    "minimalist_consumer": {
+      "demographics": "25-55, quality-over-quantity mindset",
+      "motivations": ["simplicity", "quality", "timeless design"],
+      "pain_points": ["decision fatigue", "finding versatile options"],
+      "messaging_approach": "simplicity + versatile design"
+    }
+  },
+  "reactivation_strategies": {
+    "seasonal_transition": {
+      "trigger": "Change in weather/season",
+      "approach": "Highlight seasonal product benefits",
+      "example": "Tree Breezers for summer comfort vs Tree Runners for all-season"
+    },
+    "replacement_cycle": {
+      "trigger": "12-18 months post-purchase",
+      "approach": "Comfort check-in + sustainability impact update",
+      "example": "How are your Tree Runners holding up? Ready for a fresh pair?"
+    },
+    "lifestyle_evolution": {
+      "trigger": "Life changes (job, location, activity level)",
+      "approach": "Product recommendation based on new needs",
+      "example": "New job? Tree Dashers offer professional comfort for long days"
+    },
+    "sustainability_milestone": {
+      "trigger": "Environmental impact anniversaries",
+      "approach": "Celebrate impact + suggest expanding positive influence",
+      "example": "Your Tree Runners saved 7.6kg CO2. Ready to double your impact?"
+    }
+  },
+  "pricing_strategy": {
+    "positioning": "Premium sustainable footwear",
+    "discount_philosophy": "Rare, strategic discounts to maintain brand value",
+    "preferred_incentives": [
+      "Early access to new products",
+      "Free shipping and returns",
+      "Carbon offset certificates", 
+      "Exclusive colorways",
+      "Sustainability impact reports"
+    ],
+    "discount_scenarios": [
+      "First-time buyer incentive (10-15%)",
+      "Bulk purchase (buy 2+ pairs)",
+      "End-of-season clearance",
+      "Customer appreciation (birthday, anniversary)"
+    ]
+  },
+  "sustainability_messaging": {
+    "key_facts": {
+      "carbon_footprint": "30% lower than traditional sneakers",
+      "materials": "Renewable, recycled, and bio-based materials",
+      "packaging": "90% recycled cardboard, minimal plastic",
+      "shipping": "Carbon-neutral shipping program"
+    },
+    "impact_communication": [
+      "Quantify personal environmental impact",
+      "Compare to traditional footwear alternatives",
+      "Connect to broader environmental goals",
+      "Celebrate collective community impact"
+    ]
+  },
+  "customer_journey_triggers": {
+    "purchase_patterns": {
+      "first_purchase": "Often Tree Runners (gateway product)",
+      "repeat_purchase": "Average 18 months, often different style",
+      "seasonal_buying": "Tree Breezers in spring, Wool products in fall",
+      "gift_purchasing": "High during holidays, Mother's/Father's Day"
+    },
+    "engagement_opportunities": [
+      "30 days post-purchase: Comfort check-in",
+      "90 days: Styling tips and care instructions", 
+      "180 days: Sustainability impact report",
+      "365 days: Anniversary + new product introduction",
+      "450 days: Replacement consideration"
+    ]
+  },
+  "competitive_landscape": {
+    "direct_competitors": ["Rothy's", "Veja", "Koio"],
+    "indirect_competitors": ["Nike", "Adidas", "Vans"],
+    "differentiation_points": [
+      "Carbon-negative footprint",
+      "Proprietary sustainable materials",
+      "Comfort-first design philosophy",
+      "Transparent supply chain",
+      "Simple, versatile aesthetic"
+    ]
+  },
+  "success_metrics": {
+    "brand_health": ["Net Promoter Score", "Brand awareness", "Sustainability perception"],
+    "customer_lifecycle": ["Customer lifetime value", "Repeat purchase rate", "Referral rate"],
+    "reactivation_specific": ["Email open rates", "Click-through rates", "Conversion rates", "Time to repurchase"]
+  }
+}

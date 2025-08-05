@@ -1,101 +1,101 @@
 id,name,email,age,location,total_spent,purchase_frequency,last_purchase_date,customer_lifetime_days,avg_order_value,preferred_category,engagement_score,segment,created_at
-1,Michael Robles,burtonlori@example.com,42,San Diego,11433.39,23,2023-09-20,1024,383.36,Automotive,53.2,,2022-10-15
-2,Susan Cherry,taylorcooper@example.net,74,Phoenix,13483.02,47,2025-01-01,679,315.44,Automotive,76.7,,2023-09-25
-3,Scott Johnson,istrickland@example.org,22,Phoenix,5097.89,32,2025-06-05,898,216.41,Electronics,67.8,,2023-02-18
-4,Steven Reyes,ugray@example.org,64,San Antonio,15329.95,46,2024-08-06,483,291.19,Health,62.2,,2024-04-08
-5,Natalie Carlson,kparker@example.net,71,San Jose,3592.77,27,2024-02-09,775,130.54,Home & Garden,34.1,,2023-06-21
-6,Randy Hunt,cmiller@example.org,63,San Jose,6291.84,13,2025-03-30,448,470.17,Health,50.3,,2024-05-13
-7,Christopher Terry,jean67@example.org,70,Chicago,1138.29,30,2023-10-24,859,42.82,Automotive,29.3,,2023-03-29
-8,Mr. Christopher Davis,lorimeyers@example.net,64,San Diego,2364.45,6,2024-01-15,825,392.78,Books,18.2,,2023-05-02
-9,Megan Cochran,gardnerjames@example.com,72,San Diego,859.4,20,2024-09-08,690,46.82,Health,23.8,,2023-09-14
-10,Karen Farley,perezdawn@example.org,70,Los Angeles,13903.17,40,2024-12-22,257,491.2,Electronics,67.9,,2024-11-20
-11,Mitchell Cruz,gbarber@example.com,35,San Antonio,385.36,16,2024-03-31,1034,31.97,Books,20.2,,2022-10-05
-12,Sharon White,lcampos@example.org,34,San Jose,637.96,10,2024-10-27,539,68.33,Home & Garden,19.7,,2024-02-12
-13,Mark Edwards,jamesjefferson@example.com,68,Philadelphia,3054.68,10,2024-03-31,812,435.71,Home & Garden,22.6,,2023-05-15
-14,Laura Rush,hjones@example.com,45,Philadelphia,1327.57,24,2024-04-01,851,72.87,Automotive,26.2,,2023-04-06
-15,David Simon MD,hinescrystal@example.org,19,Philadelphia,22699.28,46,2024-04-12,960,456.79,Beauty,66.4,,2022-12-18
-16,Dr. Christopher Vaughn,patricia62@example.org,29,New York,10027.19,20,2024-05-02,525,429.49,Health,46.8,,2024-02-26
-17,Michael Zimmerman,daniellewise@example.org,56,San Antonio,2947.03,10,2025-01-23,719,380.17,Health,35.5,,2023-08-16
-18,Michelle Perkins PhD,cmay@example.net,26,Phoenix,96.51,1,2025-04-13,488,122.33,Clothing,26.1,,2024-04-03
-19,Tammy Oconnell,melissagutierrez@example.org,75,New York,943.39,17,2025-05-10,681,47.27,Clothing,42.2,,2023-09-23
-20,Kevin Sanchez,hicksjennifer@example.com,18,Dallas,2202.23,5,2023-10-19,757,382.12,Books,16.5,,2023-07-09
-21,Danielle Boyd DDS,davidharris@example.com,65,San Diego,9474.78,19,2024-05-20,824,407.75,Beauty,47.3,,2023-05-03
-22,Kenneth Chandler,campbellstephanie@example.net,66,Chicago,2791.18,10,2023-10-29,673,300.38,Home & Garden,20.5,,2023-10-01
-23,Bailey Medina,michaelmckee@example.com,79,Los Angeles,1182.33,20,2023-12-16,798,83.51,Sports,22.8,,2023-05-29
-24,Monica Thompson,dyerbrian@example.org,74,Chicago,7146.2,29,2024-09-18,802,197.11,Books,49.9,,2023-05-25
-25,Dana Hess,castillobarbara@example.com,25,Houston,2959.22,6,2024-01-19,1018,388.03,Electronics,21.8,,2022-10-21
-26,Donna Greene,kmercer@example.com,76,Houston,5647.28,31,2024-09-30,958,217.28,Health,49.0,,2022-12-20
-27,Edward Murphy PhD,qmcintosh@example.com,76,Houston,1024.15,11,2023-10-28,763,101.77,Electronics,16.6,,2023-07-03
-28,Jay Fleming,christinacruz@example.org,79,San Jose,2485.71,10,2024-10-16,960,303.01,Home & Garden,28.2,,2022-12-18
-29,Frederick Hill,coopermary@example.com,79,Dallas,4390.89,12,2025-03-19,964,308.18,Clothing,47.8,,2022-12-14
-30,Keith Flores,alicia83@example.com,57,San Diego,3762.87,12,2024-06-29,673,424.06,Automotive,24.6,,2023-10-01
-31,Jack Collier,meyersphillip@example.org,51,Chicago,1077.93,37,2024-12-28,438,33.64,Health,41.4,,2024-05-23
-32,Alicia Barton,nsmith@example.net,28,Phoenix,454.62,12,2024-10-16,672,35.75,Home & Garden,20.7,,2023-10-02
-33,Joseph Nelson,davidtaylor@example.net,67,New York,3227.89,43,2025-02-12,859,67.29,Automotive,59.1,,2023-03-29
-34,Ronald Larson,phudson@example.com,32,Los Angeles,25260.06,48,2024-05-13,972,420.98,Health,67.7,,2022-12-06
-35,Raymond Sanchez,michelleboyd@example.com,64,Los Angeles,17793.93,31,2024-08-11,562,448.5,Automotive,54.3,,2024-01-20
-36,Angelica Coleman,ashley93@example.net,53,San Antonio,13409.99,41,2024-06-18,618,253.68,Home & Garden,60.2,,2023-11-25
-37,Christian Rogers,mathewsrobert@example.org,35,San Jose,1287.46,15,2024-06-26,480,70.44,Sports,17.2,,2024-04-11
-38,Anthony Powell,knappbrian@example.net,25,Philadelphia,933.1,10,2024-06-17,979,110.57,Beauty,17.7,,2022-11-29
-39,Mary Bright,karina16@example.net,55,New York,1186.17,34,2025-02-11,621,34.97,Home & Garden,45.3,,2023-11-22
-40,William Atkins,tvaughan@example.com,36,Dallas,631.65,18,2024-05-12,931,48.57,Sports,21.2,,2023-01-16
-41,Joshua Boyd,hoganmark@example.net,35,Los Angeles,1183.02,33,2024-09-04,585,31.37,Electronics,31.2,,2023-12-28
-42,Antonio Osborne,kylie78@example.com,44,Los Angeles,6003.58,23,2025-01-04,977,202.44,Books,53.3,,2022-12-01
-43,Michael Snyder,schmidtjennifer@example.net,56,Los Angeles,14728.48,43,2023-09-05,866,304.27,Sports,63.7,,2023-03-22
-44,Kimberly Gilbert,valenciaalexandra@example.com,67,Dallas,2498.48,12,2025-05-09,868,246.37,Clothing,45.5,,2023-03-20
-45,Julie Hampton,david51@example.net,76,Los Angeles,10411.33,47,2025-05-21,636,250.35,Health,87.8,,2023-11-07
-46,Christine Morrison,martinezjulie@example.net,74,San Antonio,3918.68,44,2025-05-29,317,80.13,Electronics,65.5,,2024-09-21
-47,Edward French,joseph18@example.com,49,San Antonio,9123.64,30,2024-04-29,800,392.26,Home & Garden,52.7,,2023-05-27
-48,Edwin Holland,maryfrench@example.net,72,New York,6415.83,18,2023-09-19,687,309.3,Automotive,36.3,,2023-09-17
-49,Rebecca George,bperry@example.net,69,Houston,12221.09,34,2025-07-08,368,390.91,Electronics,81.5,,2024-08-01
-50,Carolyn Dawson,bradley18@example.com,52,Houston,8419.96,23,2024-01-24,907,401.43,Home & Garden,47.3,,2023-02-09
-51,Brian West,bowmanconnie@example.net,56,San Jose,157.99,1,2025-05-25,978,199.05,Beauty,34.2,,2022-11-30
-52,Melanie Simon,yoderwesley@example.org,62,San Antonio,17129.2,40,2025-02-23,369,473.31,Sports,74.1,,2024-07-31
-53,Michael Clark,hdennis@example.com,50,Phoenix,16726.19,50,2023-11-10,1056,290.61,Clothing,69.6,,2022-09-13
-54,Stacey Thompson,wallacekrista@example.com,72,Philadelphia,17602.14,50,2024-11-17,462,422.44,Clothing,72.8,,2024-04-29
-55,Amber Huynh,wilsonrobert@example.org,61,Philadelphia,3433.75,27,2024-02-06,866,131.76,Health,34.4,,2023-03-22
-56,Mary Lutz,mooresusan@example.com,30,San Antonio,208.39,1,2025-05-02,380,259.82,Health,27.0,,2024-07-20
-57,Logan Calderon,smithmatthew@example.com,22,Houston,1203.1,38,2023-08-11,919,28.24,Beauty,34.8,,2023-01-28
-58,Stephen Thompson,ricemarcus@example.net,42,Dallas,1293.58,3,2024-04-18,526,472.04,Automotive,10.5,,2024-02-25
-59,Pamela Waters,jessicasantana@example.com,21,Phoenix,4632.75,15,2025-03-07,656,257.17,Clothing,46.6,,2023-10-18
-60,Robert Taylor,johnsoncasey@example.com,22,Chicago,4814.84,34,2024-05-20,514,184.13,Books,39.5,,2024-03-08
-61,Michelle Schwartz,caitlin80@example.org,51,San Diego,9011.32,38,2024-11-09,464,189.0,Home & Garden,62.0,,2024-04-27
-62,Sharon King,stephanie56@example.com,70,Chicago,574.99,4,2024-06-02,873,117.25,Health,12.1,,2023-03-15
-63,Mark Graham,lisa00@example.net,62,Phoenix,8296.47,23,2024-12-20,406,372.35,Home & Garden,53.7,,2024-06-24
-64,Michelle Small,rolson@example.com,68,New York,3536.05,44,2024-03-28,1050,103.21,Electronics,46.6,,2022-09-19
-65,Mrs. Anna Boyd DVM,dana98@example.com,53,New York,591.17,1,2023-09-03,927,484.02,Clothing,10.8,,2023-01-20
-66,Rachel Lee,victor52@example.org,35,Houston,2491.51,23,2025-07-11,884,120.93,Home & Garden,57.4,,2023-03-04
-67,Nathan Brown,donna48@example.net,41,Dallas,4703.86,17,2023-12-22,880,314.9,Home & Garden,32.3,,2023-03-08
-68,Richard Foley,vcobb@example.net,59,Los Angeles,10222.42,25,2024-08-20,1072,341.43,Electronics,56.1,,2022-08-28
-69,Michael Torres,tchavez@example.net,64,Phoenix,8082.23,28,2025-04-04,748,307.56,Beauty,67.9,,2023-07-18
-70,Geoffrey Adams,karenlawson@example.org,28,Houston,4228.09,33,2025-01-27,691,153.93,Beauty,53.3,,2023-09-13
-71,Elizabeth Cox,dannymartinez@example.com,80,San Antonio,5073.33,49,2024-08-30,996,131.02,Home & Garden,55.9,,2022-11-12
-72,Deborah Williams,tramirez@example.com,39,Dallas,11752.56,23,2024-10-02,948,484.68,Books,57.3,,2022-12-30
-73,Sandra Wilson,gonzaleznicole@example.com,36,Philadelphia,6496.41,13,2024-09-22,807,485.47,Electronics,38.7,,2023-05-20
-74,Gregory Nicholson,fchen@example.com,40,Phoenix,20458.11,35,2024-04-06,735,453.53,Beauty,57.7,,2023-07-31
-75,Jennifer Tran,moniquenichols@example.com,72,New York,3397.63,9,2024-10-29,667,340.06,Automotive,28.8,,2023-10-07
-76,Sarah Wilkinson,rothdavid@example.com,68,San Diego,404.99,12,2024-12-02,1032,26.99,Electronics,27.7,,2022-10-07
-77,Angela Bennett,yyork@example.org,68,Phoenix,6858.55,11,2024-06-21,628,482.42,Electronics,32.9,,2023-11-15
-78,Lonnie Gordon,delacruzralph@example.org,75,San Jose,17861.16,42,2024-09-01,832,396.13,Electronics,65.1,,2023-04-25
-79,Walter Savage,danielle14@example.com,79,San Diego,5175.08,12,2025-06-08,644,431.68,Home & Garden,53.9,,2023-10-30
-80,David Richards,jennifer05@example.org,69,Phoenix,1190.99,5,2025-04-26,175,221.81,Beauty,30.0,,2025-02-10
-81,Kevin Ford,stephen27@example.net,30,San Antonio,851.11,50,2025-03-19,735,24.31,Electronics,57.9,,2023-07-31
-82,Amy David,hlopez@example.org,60,Philadelphia,1002.44,7,2024-06-17,1024,201.65,Books,16.6,,2022-10-15
-83,Cynthia Henson,james60@example.net,67,Los Angeles,5509.26,20,2023-08-04,1051,356.65,Automotive,38.1,,2022-09-18
-84,John Acosta,thompsonphillip@example.com,71,Dallas,6324.21,34,2023-12-08,738,169.44,Automotive,46.1,,2023-07-28
-85,Pamela Vaughan,theresahorn@example.org,50,Chicago,1799.14,14,2025-01-07,911,164.1,Electronics,34.9,,2023-02-05
-86,Matthew Miller,morrischad@example.com,25,San Antonio,608.92,6,2023-08-21,1094,102.75,Beauty,15.4,,2022-08-06
-87,Jeffrey Walker,deanthomas@example.com,33,San Antonio,20824.86,48,2025-01-16,990,459.1,Home & Garden,81.4,,2022-11-18
-88,Jordan Eaton,deniseallison@example.org,77,San Antonio,551.86,1,2025-06-04,317,456.14,Automotive,30.1,,2024-09-21
-89,David Howard,gonzalesjacob@example.com,20,Chicago,1475.21,4,2024-02-16,727,420.36,Beauty,13.5,,2023-08-08
-90,Adam Cuevas,maria90@example.net,45,Philadelphia,8490.58,32,2023-12-12,1026,280.42,Clothing,54.0,,2022-10-13
-91,Matthew Hughes,thamilton@example.net,35,Philadelphia,3024.62,7,2025-01-17,825,377.14,Books,34.5,,2023-05-02
-92,Alexa Brown,mcooper@example.com,78,Philadelphia,10816.62,26,2025-08-01,732,349.95,Clothing,82.0,,2023-08-03
-93,Daniel White,lisa87@example.net,56,Philadelphia,15475.63,48,2023-10-08,798,374.74,Home & Garden,66.1,,2023-05-29
-94,Bill Lloyd,ajohnston@example.com,49,Los Angeles,8963.79,22,2025-05-08,844,404.73,Books,70.6,,2023-04-13
-95,Heidi Porter,vcox@example.org,37,Houston,17551.76,45,2023-11-16,982,387.17,Clothing,66.0,,2022-11-26
-96,Donna Gallagher,rmitchell@example.net,68,Dallas,4190.41,38,2024-08-11,838,86.78,Beauty,43.6,,2023-04-19
-97,Sheila Smith,jerry59@example.net,76,Dallas,6293.63,46,2023-10-14,983,110.85,Automotive,55.5,,2022-11-25
-98,Kenneth Hall,zclark@example.org,42,Houston,8837.97,21,2024-01-15,1043,353.52,Clothing,48.6,,2022-09-26
-99,Elizabeth Maxwell,jacksontravis@example.net,48,Chicago,1922.49,12,2023-12-20,982,203.37,Clothing,21.9,,2022-11-26
-100,George Soto,rachel75@example.com,55,Los Angeles,13569.87,44,2024-01-06,801,406.21,Health,63.7,,2023-05-26
+1,Michael Robles,burtonlori@example.com,42,San Diego,881.82,7,2023-09-20,1024,125.97,Athletic,53.2,,2022-10-15
+2,Susan Cherry,taylorcooper@example.net,74,Phoenix,1482.38,12,2025-01-01,679,123.53,Casual,76.7,,2023-09-25
+3,Scott Johnson,istrickland@example.org,22,Phoenix,692.48,6,2025-06-05,898,115.41,Running,67.8,,2023-02-18
+4,Steven Reyes,ugray@example.org,64,San Antonio,1339.52,11,2024-08-06,483,121.77,Walking,62.2,,2024-04-08
+5,Natalie Carlson,kparker@example.net,71,San Jose,352.35,3,2024-02-09,775,117.45,Casual,34.1,,2023-06-21
+6,Randy Hunt,cmiller@example.org,63,San Jose,611.26,5,2025-03-30,448,122.25,Walking,50.3,,2024-05-13
+7,Christopher Terry,jean67@example.org,70,Chicago,128.40,1,2023-10-24,859,128.40,Casual,29.3,,2023-03-29
+8,Mr. Christopher Davis,lorimeyers@example.net,64,San Diego,235.68,2,2024-01-15,825,117.84,Loafers,18.2,,2023-05-02
+9,Megan Cochran,gardnerjames@example.com,72,San Diego,93.60,1,2024-09-08,690,93.60,Walking,23.8,,2023-09-14
+10,Karen Farley,perezdawn@example.org,70,Los Angeles,1964.80,16,2024-12-22,257,122.80,Running,67.9,,2024-11-20
+11,Mitchell Cruz,gbarber@example.com,35,San Antonio,51.20,1,2024-03-31,1034,51.20,Loafers,20.2,,2022-10-15
+12,Sharon White,lcampos@example.org,34,San Jose,68.30,1,2024-10-27,539,68.30,Casual,19.7,,2024-02-12
+13,Mark Edwards,jamesjefferson@example.com,68,Philadelphia,435.70,4,2024-03-31,812,108.93,Work,22.6,,2023-05-15
+14,Laura Rush,hjones@example.com,45,Philadelphia,174.96,2,2024-04-01,851,87.48,Athletic,26.2,,2023-04-06
+15,David Simon MD,hinescrystal@example.org,19,Philadelphia,2101.28,17,2024-04-12,960,123.60,Athletic,66.4,,2022-12-18
+16,Dr. Christopher Vaughn,patricia62@example.org,29,New York,859.00,7,2024-05-02,525,122.71,Walking,46.8,,2024-02-26
+17,Michael Zimmerman,daniellewise@example.org,56,San Antonio,380.20,3,2025-01-23,719,126.73,Walking,35.5,,2023-08-16
+18,Michelle Perkins PhD,cmay@example.net,26,Phoenix,12.23,1,2025-04-13,488,12.23,Casual,26.1,,2024-04-03
+19,Tammy Oconnell,melissagutierrez@example.org,75,New York,80.41,1,2025-05-10,681,80.41,Casual,42.2,,2023-09-23
+20,Kevin Sanchez,hicksjennifer@example.com,18,Dallas,191.05,2,2023-10-19,757,95.53,Loafers,16.5,,2023-07-09
+21,Danielle Boyd DDS,davidharris@example.com,65,San Diego,774.82,6,2024-05-20,824,129.14,Athletic,47.3,,2023-05-03
+22,Kenneth Chandler,campbellstephanie@example.net,66,Chicago,300.40,3,2023-10-29,673,100.13,Casual,20.5,,2023-10-01
+23,Bailey Medina,michaelmckee@example.com,79,Los Angeles,167.00,2,2023-12-16,798,83.50,Athletic,22.8,,2023-05-29
+24,Monica Thompson,dyerbrian@example.org,74,Chicago,571.19,5,2024-09-18,802,114.24,Loafers,49.9,,2023-05-25
+25,Dana Hess,castillobarbara@example.com,25,Houston,232.80,2,2024-01-19,1018,116.40,Running,21.8,,2022-10-21
+26,Donna Greene,kmercer@example.com,76,Houston,673.68,6,2024-09-30,958,112.28,Walking,49.0,,2022-12-20
+27,Edward Murphy PhD,qmcintosh@example.com,76,Houston,111.98,1,2023-10-28,763,111.98,Running,16.6,,2023-07-03
+28,Jay Fleming,christinacruz@example.org,79,San Jose,303.00,3,2024-10-16,960,101.00,Casual,28.2,,2022-12-18
+29,Frederick Hill,coopermary@example.com,79,Dallas,369.84,3,2025-03-19,964,123.28,Casual,47.8,,2022-12-14
+30,Keith Flores,alicia83@example.com,57,San Diego,508.92,4,2024-06-29,673,127.23,Athletic,24.6,,2023-10-01
+31,Jack Collier,meyersphillip@example.org,51,Chicago,124.32,1,2024-12-28,438,124.32,Walking,41.4,,2024-05-23
+32,Alicia Barton,nsmith@example.net,28,Phoenix,42.96,1,2024-10-16,672,42.96,Casual,20.7,,2023-10-02
+33,Joseph Nelson,davidtaylor@example.net,67,New York,289.39,3,2025-02-12,859,96.46,Athletic,59.1,,2023-03-29
+34,Ronald Larson,phudson@example.com,32,Los Angeles,2020.80,16,2024-05-13,972,126.30,Walking,67.7,,2022-12-06
+35,Raymond Sanchez,michelleboyd@example.com,64,Los Angeles,1390.35,11,2024-08-11,562,126.40,Athletic,54.3,,2024-01-20
+36,Angelica Coleman,ashley93@example.net,53,San Antonio,1040.17,9,2024-06-18,618,115.57,Casual,60.2,,2023-11-25
+37,Christian Rogers,mathewsrobert@example.org,35,San Jose,105.60,1,2024-06-26,480,105.60,Athletic,17.2,,2024-04-11
+38,Anthony Powell,knappbrian@example.net,25,Philadelphia,110.60,1,2024-06-17,979,110.60,Athletic,17.7,,2022-11-29
+39,Mary Bright,karina16@example.net,55,New York,119.00,1,2025-02-11,621,119.00,Casual,45.3,,2023-11-22
+40,William Atkins,tvaughan@example.com,36,Dallas,87.48,1,2024-05-12,931,87.48,Athletic,21.2,,2023-01-16
+41,Joshua Boyd,hoganmark@example.net,35,Los Angeles,103.62,1,2024-09-04,585,103.62,Running,31.2,,2023-12-28
+42,Antonio Osborne,kylie78@example.com,44,Los Angeles,465.52,4,2025-01-04,977,116.38,Loafers,53.3,,2022-12-01
+43,Michael Snyder,schmidtjennifer@example.net,56,Los Angeles,1308.49,11,2023-09-05,866,119.00,Athletic,63.7,,2023-03-22
+44,Kimberly Gilbert,valenciaalexandra@example.com,67,Dallas,295.68,3,2025-05-09,868,98.56,Casual,45.5,,2023-03-20
+45,Julie Hampton,david51@example.net,76,Los Angeles,1176.88,10,2025-05-21,636,117.69,Walking,87.8,,2023-11-07
+46,Christine Morrison,martinezjulie@example.net,74,San Antonio,352.44,3,2025-05-29,317,117.48,Running,65.5,,2024-09-21
+47,Edward French,joseph18@example.com,49,San Antonio,1176.90,10,2024-04-29,800,117.69,Casual,52.7,,2023-05-27
+48,Edwin Holland,maryfrench@example.net,72,New York,556.74,5,2023-09-19,687,111.35,Athletic,36.3,,2023-09-17
+49,Rebecca George,bperry@example.net,69,Houston,1329.06,11,2025-07-08,368,120.82,Running,81.5,,2024-08-01
+50,Carolyn Dawson,bradley18@example.com,52,Houston,923.22,8,2024-01-24,907,115.40,Casual,47.3,,2023-02-09
+51,Brian West,bowmanconnie@example.net,56,San Jose,19.91,1,2025-05-25,978,19.91,Athletic,34.2,,2022-11-30
+52,Melanie Simon,yoderwesley@example.org,62,San Antonio,1893.20,15,2025-02-23,369,126.21,Athletic,74.1,,2024-07-31
+53,Michael Clark,hdennis@example.com,50,Phoenix,1453.00,12,2023-11-10,1056,121.08,Casual,69.6,,2022-09-13
+54,Stacey Thompson,wallacekrista@example.com,72,Philadelphia,2112.00,17,2024-11-17,462,124.24,Casual,72.8,,2024-04-29
+55,Amber Huynh,wilsonrobert@example.org,61,Philadelphia,355.86,3,2024-02-06,866,118.62,Walking,34.4,,2023-03-22
+56,Mary Lutz,mooresusan@example.com,30,San Antonio,25.98,1,2025-05-02,380,25.98,Walking,27.0,,2024-07-20
+57,Logan Calderon,smithmatthew@example.com,22,Houston,107.12,1,2023-08-11,919,107.12,Athletic,34.8,,2023-01-28
+58,Stephen Thompson,ricemarcus@example.net,42,Dallas,141.60,1,2024-04-18,526,141.60,Athletic,10.5,,2024-02-25
+59,Pamela Waters,jessicasantana@example.com,21,Phoenix,385.80,3,2025-03-07,656,128.60,Casual,46.6,,2023-10-18
+60,Robert Taylor,johnsoncasey@example.com,22,Chicago,625.94,5,2024-05-20,514,125.19,Loafers,39.5,,2024-03-08
+61,Michelle Schwartz,caitlin80@example.org,51,San Diego,718.20,6,2024-11-09,464,119.70,Casual,62.0,,2024-04-27
+62,Sharon King,stephanie56@example.com,70,Chicago,46.92,1,2024-06-02,873,46.92,Walking,12.1,,2023-03-15
+63,Mark Graham,lisa00@example.net,62,Phoenix,856.52,7,2024-12-20,406,122.36,Casual,53.7,,2024-06-24
+64,Michelle Small,rolson@example.com,68,New York,454.08,4,2024-03-28,1050,113.52,Running,46.6,,2022-09-19
+65,Mrs. Anna Boyd DVM,dana98@example.com,53,New York,48.40,1,2023-09-03,927,48.40,Casual,10.8,,2023-01-20
+66,Rachel Lee,victor52@example.org,35,Houston,278.07,2,2025-07-11,884,139.04,Casual,57.4,,2023-03-04
+67,Nathan Brown,donna48@example.net,41,Dallas,535.33,4,2023-12-22,880,133.83,Casual,32.3,,2023-03-08
+68,Richard Foley,vcobb@example.net,59,Los Angeles,853.50,7,2024-08-20,1072,121.93,Running,56.1,,2022-08-28
+69,Michael Torres,tchavez@example.net,64,Phoenix,861.28,7,2025-04-04,748,123.04,Athletic,67.9,,2023-07-18
+70,Geoffrey Adams,karenlawson@example.org,28,Houston,507.87,4,2025-01-27,691,126.97,Athletic,53.3,,2023-09-13
+71,Elizabeth Cox,dannymartinez@example.com,80,San Antonio,641.90,5,2024-08-30,996,128.38,Casual,55.9,,2022-11-12
+72,Deborah Williams,tramirez@example.com,39,Dallas,1114.81,9,2024-10-02,948,123.87,Loafers,57.3,,2022-12-30
+73,Sandra Wilson,gonzaleznicole@example.com,36,Philadelphia,631.11,5,2024-09-22,807,126.22,Running,38.7,,2023-05-20
+74,Gregory Nicholson,fchen@example.com,40,Phoenix,1587.25,13,2024-04-06,735,122.10,Athletic,57.7,,2023-07-31
+75,Jennifer Tran,moniquenichols@example.com,72,New York,306.09,3,2024-10-29,667,102.03,Athletic,28.8,,2023-10-07
+76,Sarah Wilkinson,rothdavid@example.com,68,San Diego,32.40,1,2024-12-02,1032,32.40,Running,27.7,,2022-10-07
+77,Angela Bennett,yyork@example.org,68,Phoenix,530.64,4,2024-06-21,628,132.66,Running,32.9,,2023-11-15
+78,Lonnie Gordon,delacruzralph@example.org,75,San Jose,1663.62,13,2024-09-01,832,127.97,Running,65.1,,2023-04-25
+79,Walter Savage,danielle14@example.com,79,San Diego,518.04,4,2025-06-08,644,129.51,Casual,53.9,,2023-10-30
+80,David Richards,jennifer05@example.org,69,Phoenix,110.90,1,2025-04-26,175,110.90,Athletic,30.0,,2025-02-10
+81,Kevin Ford,stephen27@example.net,30,San Antonio,121.50,1,2025-03-19,735,121.50,Running,57.9,,2023-07-31
+82,Amy David,hlopez@example.org,60,Philadelphia,141.19,1,2024-06-17,1024,141.19,Loafers,16.6,,2022-10-15
+83,Cynthia Henson,james60@example.net,67,Los Angeles,713.40,6,2023-08-04,1051,118.90,Athletic,38.1,,2022-09-18
+84,John Acosta,thompsonphillip@example.com,71,Dallas,575.96,5,2023-12-08,738,115.19,Athletic,46.1,,2023-07-28
+85,Pamela Vaughan,theresahorn@example.org,50,Chicago,229.74,2,2025-01-07,911,114.87,Running,34.9,,2023-02-05
+86,Matthew Miller,morrischad@example.com,25,San Antonio,61.68,1,2023-08-21,1094,61.68,Athletic,15.4,,2022-08-06
+87,Jeffrey Walker,deanthomas@example.com,33,San Antonio,2203.68,18,2025-01-16,990,122.43,Casual,81.4,,2022-11-18
+88,Jordan Eaton,deniseallison@example.org,77,San Antonio,45.61,1,2025-06-04,317,45.61,Athletic,30.1,,2024-09-21
+89,David Howard,gonzalesjacob@example.com,20,Chicago,168.16,1,2024-02-16,727,168.16,Athletic,13.5,,2023-08-08
+90,Adam Cuevas,maria90@example.net,45,Philadelphia,897.28,7,2023-12-12,1026,128.18,Casual,54.0,,2022-10-13
+91,Matthew Hughes,thamilton@example.net,35,Philadelphia,263.97,2,2025-01-17,825,131.99,Loafers,34.5,,2023-05-02
+92,Alexa Brown,mcooper@example.com,78,Philadelphia,910.00,7,2025-08-01,732,130.00,Casual,82.0,,2023-08-03
+93,Daniel White,lisa87@example.net,56,Philadelphia,1798.56,15,2023-10-08,798,119.90,Casual,66.1,,2023-05-29
+94,Bill Lloyd,ajohnston@example.com,49,Los Angeles,890.34,7,2025-05-08,844,127.19,Loafers,70.6,,2023-04-13
+95,Heidi Porter,vcox@example.org,37,Houston,1742.40,14,2023-11-16,982,124.46,Casual,66.0,,2022-11-26
+96,Donna Gallagher,rmitchell@example.net,68,Dallas,329.84,3,2024-08-11,838,109.95,Athletic,43.6,,2023-04-19
+97,Sheila Smith,jerry59@example.net,76,Dallas,510.10,4,2023-10-14,983,127.53,Athletic,55.5,,2022-11-25
+98,Kenneth Hall,zclark@example.org,42,Houston,742.35,6,2024-01-15,1043,123.73,Casual,48.6,,2022-09-26
+99,Elizabeth Maxwell,jacksontravis@example.net,48,Chicago,244.08,2,2023-12-20,982,122.04,Casual,21.9,,2022-11-26
+100,George Soto,rachel75@example.com,55,Los Angeles,1787.28,15,2024-01-06,801,119.15,Walking,63.7,,2023-05-26
