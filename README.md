@@ -1,6 +1,16 @@
 # Prompt Engineering Customer Reactivation
 
-A comprehensive prompt engineering portfolio project focused on customer reactivation strategies through AI-powered messaging optimization.
+A comprehensive prompt engineering portfolio project focused on customer reactivation strategies for **Allbirds**, a sustainable footwear company. This project demonstrates how AI-powered messaging optimization can be tailored to a specific brand's voice, values, and customer base.
+
+## Client: Allbirds
+
+**Allbirds** is our target client - a premium sustainable footwear brand known for creating "the world's most comfortable shoes" using eco-friendly materials. This project showcases how we develop sophisticated customer reactivation strategies that align with Allbirds' unique brand positioning and business objectives.
+
+### Our Marketing Consultancy Approach
+- **Brand-Aligned Messaging:** Authentic, educational communication that avoids pushy sales tactics
+- **Sustainability-First Strategy:** Leading with environmental impact and comfort benefits rather than discounts
+- **Premium Customer Experience:** Sophisticated personalization that matches Allbirds' thoughtful brand personality
+- **Data-Driven Optimization:** Systematic testing and evaluation to maximize both conversion and brand equity
 
 ## Project Structure
 
@@ -8,8 +18,10 @@ A comprehensive prompt engineering portfolio project focused on customer reactiv
 prompt-engineering-customer-reactivation/
 ├── README.md
 ├── data/
-│   ├── customer_personas.json
-│   └── sample_scenarios.json
+│   ├── customers.csv (100 realistic Allbirds customer profiles)
+│   ├── customer_personas.json (10 detailed customer segments)
+│   ├── sample_scenarios.json (10 reactivation scenarios)
+│   └── company_profile.json (Comprehensive Allbirds brand profile)
 ├── prompts/
 │   ├── v1_basic_prompt.md
 │   ├── v2_personalized_prompt.md
@@ -28,9 +40,9 @@ prompt-engineering-customer-reactivation/
     └── business_impact_assessment.md
 ```
 
-## Overview
+## Business Case
 
-This project demonstrates advanced prompt engineering techniques for customer reactivation campaigns, showcasing iterative prompt improvement and systematic evaluation methodologies.
+This project demonstrates advanced prompt engineering techniques specifically tailored to Allbirds' customer reactivation needs, showcasing how AI can maintain brand integrity while driving measurable business results.
 
 ## Components
 
