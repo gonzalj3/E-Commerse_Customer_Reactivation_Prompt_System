@@ -39,3 +39,21 @@ This project demonstrates advanced prompt engineering techniques for customer re
 - **Outputs**: Generated samples for each prompt version
 - **Evaluation**: Systematic assessment tools and results
 - **Analysis**: Business impact and effectiveness analysis
+
+# E-commerce Customer Reactivation Prompt System
+
+## Problem Statement
+E-commerce brands lose 75% of customers after their first purchase, with the highest churn occurring in months 2-4. Marketing firms of the future have clients that need AI-powered conversations that feel personal and strategic - knowing when to offer discounts vs. when to lead with product benefits to maximize both conversion and margins.
+
+## Challenge
+Create a prompt system that generates personalized reactivation messages while:
+- Maintaining consistent brand voice across thousands of variations
+- Making intelligent business decisions about discount offers
+- Handling different customer personas and purchase histories
+- Scaling from generic "batch and blast" to true 1-to-1 conversations
+
+## Success Metrics
+- Brand voice consistency scores
+- Business logic accuracy rates  
+- User preference testing results
+- Multi-scenario adaptability
