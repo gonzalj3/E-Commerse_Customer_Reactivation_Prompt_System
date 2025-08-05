@@ -1,0 +1,193 @@
+{
+  "scenarios": [
+    {
+      "id": "high_value_churn",
+      "name": "High-Value Customer Churn",
+      "description": "Customer with high lifetime value hasn't purchased in 90+ days",
+      "customer_profile": {
+        "persona": "high_value_tech_enthusiast",
+        "last_purchase": "120 days ago",
+        "total_spent": "$18,500",
+        "avg_order_value": "$450",
+        "engagement_score": 25
+      },
+      "context": {
+        "churn_risk": "high",
+        "previous_interactions": ["abandoned_cart", "support_ticket", "newsletter_unsubscribe"],
+        "competitor_activity": "new_product_launch"
+      },
+      "success_metrics": ["email_open_rate", "click_through_rate", "purchase_conversion", "reactivation_rate"]
+    },
+    {
+      "id": "seasonal_dormancy",
+      "name": "Seasonal Purchase Dormancy",
+      "description": "Customer typically active during specific seasons but missed recent cycle",
+      "customer_profile": {
+        "persona": "home_garden_enthusiast",
+        "last_purchase": "8 months ago",
+        "total_spent": "$3,200",
+        "avg_order_value": "$180",
+        "seasonal_pattern": "spring_summer"
+      },
+      "context": {
+        "churn_risk": "medium",
+        "missed_season": "spring_2024",
+        "previous_seasonal_engagement": "high",
+        "current_season": "approaching_spring"
+      },
+      "success_metrics": ["seasonal_reactivation", "order_value_recovery", "engagement_improvement"]
+    },
+    {
+      "id": "price_sensitive_pause",
+      "name": "Price-Sensitive Purchase Pause",
+      "description": "Budget-conscious customer reduced purchasing frequency due to economic concerns",
+      "customer_profile": {
+        "persona": "budget_conscious_senior",
+        "last_purchase": "60 days ago",
+        "total_spent": "$1,800",
+        "avg_order_value": "$85",
+        "price_sensitivity": "high"
+      },
+      "context": {
+        "churn_risk": "medium",
+        "economic_factors": ["inflation_concerns", "fixed_income"],
+        "previous_loyalty": "high",
+        "discount_responsiveness": "very_high"
+      },
+      "success_metrics": ["discount_redemption", "purchase_frequency_recovery", "customer_lifetime_extension"]
+    },
+    {
+      "id": "young_professional_drift",
+      "name": "Young Professional Life Change",
+      "description": "Career-focused customer experiencing life changes affecting purchase patterns",
+      "customer_profile": {
+        "persona": "young_professional",
+        "last_purchase": "45 days ago",
+        "total_spent": "$2,400",
+        "avg_order_value": "$160",
+        "life_stage": "career_transition"
+      },
+      "context": {
+        "churn_risk": "medium",
+        "life_changes": ["job_change", "relocation", "relationship_status"],
+        "communication_preferences": "mobile_first",
+        "time_constraints": "increased"
+      },
+      "success_metrics": ["mobile_engagement", "convenience_adoption", "loyalty_retention"]
+    },
+    {
+      "id": "fashion_trend_disconnect",
+      "name": "Fashion Trend Disconnect",
+      "description": "Fashion customer feeling disconnected from current brand direction",
+      "customer_profile": {
+        "persona": "fashion_conscious_shopper",
+        "last_purchase": "75 days ago",
+        "total_spent": "$5,600",
+        "avg_order_value": "$280",
+        "style_preference": "classic_contemporary"
+      },
+      "context": {
+        "churn_risk": "high",
+        "brand_perception": "trend_mismatch",
+        "competitor_attraction": "better_style_alignment",
+        "social_influence": "peer_recommendations"
+      },
+      "success_metrics": ["style_relevance_score", "collection_engagement", "brand_perception_improvement"]
+    },
+    {
+      "id": "automotive_project_completion",
+      "name": "Automotive Project Completion",
+      "description": "Customer completed major automotive project and may not need products short-term",
+      "customer_profile": {
+        "persona": "automotive_enthusiast",
+        "last_purchase": "90 days ago",
+        "total_spent": "$8,900",
+        "avg_order_value": "$350",
+        "project_status": "completed"
+      },
+      "context": {
+        "churn_risk": "low_to_medium",
+        "project_cycle": "maintenance_phase",
+        "engagement_opportunity": "new_projects",
+        "community_involvement": "forums_active"
+      },
+      "success_metrics": ["project_inspiration_engagement", "maintenance_product_adoption", "community_participation"]
+    },
+    {
+      "id": "health_goal_achievement",
+      "name": "Health Goal Achievement Plateau",
+      "description": "Customer achieved initial health goals and motivation has plateaued",
+      "customer_profile": {
+        "persona": "health_wellness_focused",
+        "last_purchase": "55 days ago",
+        "total_spent": "$4,200",
+        "avg_order_value": "$210",
+        "goal_status": "initial_success"
+      },
+      "context": {
+        "churn_risk": "medium",
+        "motivation_level": "decreased",
+        "goal_evolution": "maintenance_to_advanced",
+        "support_needs": "ongoing_motivation"
+      },
+      "success_metrics": ["goal_progression", "advanced_product_adoption", "long_term_engagement"]
+    },
+    {
+      "id": "beauty_routine_saturation",
+      "name": "Beauty Routine Saturation",
+      "description": "Customer has established routine and reduced exploration of new products",
+      "customer_profile": {
+        "persona": "beauty_enthusiast",
+        "last_purchase": "40 days ago",
+        "total_spent": "$3,800",
+        "avg_order_value": "$190",
+        "routine_status": "established"
+      },
+      "context": {
+        "churn_risk": "low",
+        "purchase_motivation": "replenishment_only",
+        "exploration_interest": "low",
+        "brand_loyalty": "high"
+      },
+      "success_metrics": ["routine_expansion", "new_product_trial", "purchase_frequency_maintenance"]
+    },
+    {
+      "id": "book_genre_fatigue",
+      "name": "Reading Genre Fatigue",
+      "description": "Avid reader experiencing fatigue with current genre preferences",
+      "customer_profile": {
+        "persona": "book_lover",
+        "last_purchase": "65 days ago",
+        "total_spent": "$2,100",
+        "avg_order_value": "$35",
+        "reading_pattern": "genre_specific"
+      },
+      "context": {
+        "churn_risk": "medium",
+        "genre_interest": "declining",
+        "discovery_needs": "new_genres",
+        "reading_motivation": "seeking_variety"
+      },
+      "success_metrics": ["genre_diversification", "discovery_engagement", "reading_frequency_recovery"]
+    },
+    {
+      "id": "occasional_buyer_dormancy",
+      "name": "Occasional Buyer Extended Dormancy",
+      "description": "Infrequent customer hasn't made purchase in extended period",
+      "customer_profile": {
+        "persona": "occasional_buyer",
+        "last_purchase": "180 days ago",
+        "total_spent": "$450",
+        "avg_order_value": "$150",
+        "purchase_triggers": "special_occasions"
+      },
+      "context": {
+        "churn_risk": "high",
+        "purchase_pattern": "event_driven",
+        "missed_opportunities": ["holidays", "birthdays", "sales_events"],
+        "engagement_level": "minimal"
+      },
+      "success_metrics": ["occasion_awareness", "event_conversion", "engagement_frequency"]
+    }
+  ]
+}

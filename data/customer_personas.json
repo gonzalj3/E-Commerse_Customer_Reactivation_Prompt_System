@@ -1,0 +1,214 @@
+{
+  "personas": [
+    {
+      "id": "high_value_tech_enthusiast",
+      "name": "High-Value Tech Enthusiast",
+      "demographics": {
+        "age_range": "25-45",
+        "income": "high",
+        "location": "urban",
+        "example_customers": ["Ronald Larson", "David Simon MD", "Jeffrey Walker"]
+      },
+      "characteristics": {
+        "pain_points": ["outdated_technology", "poor_customer_service", "lack_of_premium_features"],
+        "communication_preferences": ["detailed_product_specs", "early_access_offers", "premium_support"],
+        "motivation_triggers": ["cutting_edge_features", "exclusive_access", "performance_improvements"],
+        "spending_patterns": {
+          "total_spent_range": "$15,000-$25,000",
+          "avg_order_value": "$400-$500",
+          "purchase_frequency": "high"
+        }
+      },
+      "reactivation_strategy": "Highlight new premium features, offer early access to beta products, provide dedicated support"
+    },
+    {
+      "id": "budget_conscious_senior",
+      "name": "Budget-Conscious Senior",
+      "demographics": {
+        "age_range": "65-80",
+        "income": "moderate",
+        "location": "varied",
+        "example_customers": ["Christopher Terry", "Sharon King", "Kenneth Chandler"]
+      },
+      "characteristics": {
+        "pain_points": ["complex_interfaces", "high_costs", "lack_of_support"],
+        "communication_preferences": ["simple_language", "phone_support", "clear_instructions"],
+        "motivation_triggers": ["cost_savings", "simplicity", "reliable_service"],
+        "spending_patterns": {
+          "total_spent_range": "$500-$3,000",
+          "avg_order_value": "$50-$150",
+          "purchase_frequency": "low_to_moderate"
+        }
+      },
+      "reactivation_strategy": "Emphasize value and savings, offer simplified product versions, provide phone support"
+    },
+    {
+      "id": "automotive_enthusiast",
+      "name": "Automotive Enthusiast",
+      "demographics": {
+        "age_range": "35-65",
+        "income": "moderate_to_high",
+        "location": "suburban",
+        "example_customers": ["Michael Robles", "Susan Cherry", "Raymond Sanchez"]
+      },
+      "characteristics": {
+        "pain_points": ["product_compatibility", "installation_complexity", "performance_issues"],
+        "communication_preferences": ["technical_specifications", "how_to_guides", "community_forums"],
+        "motivation_triggers": ["performance_enhancement", "durability", "brand_reputation"],
+        "spending_patterns": {
+          "total_spent_range": "$6,000-$18,000",
+          "avg_order_value": "$300-$450",
+          "purchase_frequency": "moderate_to_high"
+        }
+      },
+      "reactivation_strategy": "Focus on product performance improvements, provide technical documentation, offer installation support"
+    },
+    {
+      "id": "health_wellness_focused",
+      "name": "Health & Wellness Focused",
+      "demographics": {
+        "age_range": "45-75",
+        "income": "moderate_to_high",
+        "location": "urban_suburban",
+        "example_customers": ["Steven Reyes", "Julie Hampton", "Rebecca George"]
+      },
+      "characteristics": {
+        "pain_points": ["health_concerns", "product_safety", "ineffective_results"],
+        "communication_preferences": ["scientific_evidence", "health_benefits", "safety_information"],
+        "motivation_triggers": ["health_improvement", "quality_assurance", "professional_recommendations"],
+        "spending_patterns": {
+          "total_spent_range": "$10,000-$17,000",
+          "avg_order_value": "$300-$500",
+          "purchase_frequency": "high"
+        }
+      },
+      "reactivation_strategy": "Provide scientific backing, highlight health benefits, offer professional consultations"
+    },
+    {
+      "id": "young_professional",
+      "name": "Young Professional",
+      "demographics": {
+        "age_range": "22-35",
+        "income": "moderate",
+        "location": "urban",
+        "example_customers": ["Scott Johnson", "Michelle Perkins PhD", "Dana Hess"]
+      },
+      "characteristics": {
+        "pain_points": ["time_constraints", "budget_limitations", "career_priorities"],
+        "communication_preferences": ["mobile_optimized", "quick_delivery", "social_proof"],
+        "motivation_triggers": ["convenience", "career_advancement", "social_status"],
+        "spending_patterns": {
+          "total_spent_range": "$500-$5,000",
+          "avg_order_value": "$100-$300",
+          "purchase_frequency": "moderate"
+        }
+      },
+      "reactivation_strategy": "Emphasize convenience and time-saving, offer flexible payment options, use social media channels"
+    },
+    {
+      "id": "home_garden_enthusiast",
+      "name": "Home & Garden Enthusiast",
+      "demographics": {
+        "age_range": "50-70",
+        "income": "moderate",
+        "location": "suburban",
+        "example_customers": ["Angelica Coleman", "Edward French", "Michelle Schwartz"]
+      },
+      "characteristics": {
+        "pain_points": ["seasonal_limitations", "maintenance_complexity", "space_constraints"],
+        "communication_preferences": ["seasonal_tips", "maintenance_guides", "project_inspiration"],
+        "motivation_triggers": ["home_improvement", "seasonal_preparation", "family_enjoyment"],
+        "spending_patterns": {
+          "total_spent_range": "$8,000-$14,000",
+          "avg_order_value": "$200-$400",
+          "purchase_frequency": "moderate_to_high"
+        }
+      },
+      "reactivation_strategy": "Provide seasonal content, offer project guides, highlight family benefits"
+    },
+    {
+      "id": "fashion_conscious_shopper",
+      "name": "Fashion-Conscious Shopper",
+      "demographics": {
+        "age_range": "30-55",
+        "income": "moderate_to_high",
+        "location": "urban",
+        "example_customers": ["Michael Clark", "Stacey Thompson", "Heidi Porter"]
+      },
+      "characteristics": {
+        "pain_points": ["trend_changes", "sizing_issues", "quality_concerns"],
+        "communication_preferences": ["style_guides", "trend_updates", "size_charts"],
+        "motivation_triggers": ["latest_trends", "quality_materials", "style_versatility"],
+        "spending_patterns": {
+          "total_spent_range": "$16,000-$20,000",
+          "avg_order_value": "$400-$450",
+          "purchase_frequency": "high"
+        }
+      },
+      "reactivation_strategy": "Showcase new collections, provide style inspiration, offer personalized recommendations"
+    },
+    {
+      "id": "book_lover",
+      "name": "Book Lover",
+      "demographics": {
+        "age_range": "35-65",
+        "income": "moderate",
+        "location": "varied",
+        "example_customers": ["Antonio Osborne", "Monica Thompson", "Bill Lloyd"]
+      },
+      "characteristics": {
+        "pain_points": ["limited_selection", "shipping_delays", "digital_vs_physical_preference"],
+        "communication_preferences": ["book_recommendations", "author_interviews", "reading_lists"],
+        "motivation_triggers": ["new_releases", "author_recommendations", "genre_preferences"],
+        "spending_patterns": {
+          "total_spent_range": "$6,000-$12,000",
+          "avg_order_value": "$200-$400",
+          "purchase_frequency": "moderate_to_high"
+        }
+      },
+      "reactivation_strategy": "Recommend new releases in preferred genres, offer author events, provide reading community access"
+    },
+    {
+      "id": "beauty_enthusiast",
+      "name": "Beauty Enthusiast",
+      "demographics": {
+        "age_range": "25-75",
+        "income": "varied",
+        "location": "urban_suburban",
+        "example_customers": ["David Simon MD", "Gregory Nicholson", "Michael Torres"]
+      },
+      "characteristics": {
+        "pain_points": ["skin_sensitivities", "product_authenticity", "trend_overload"],
+        "communication_preferences": ["ingredient_information", "tutorial_videos", "before_after_results"],
+        "motivation_triggers": ["skin_improvement", "anti_aging", "trend_following"],
+        "spending_patterns": {
+          "total_spent_range": "$4,000-$20,000",
+          "avg_order_value": "$300-$450",
+          "purchase_frequency": "varied"
+        }
+      },
+      "reactivation_strategy": "Provide ingredient education, offer skincare consultations, share success stories"
+    },
+    {
+      "id": "occasional_buyer",
+      "name": "Occasional Buyer",
+      "demographics": {
+        "age_range": "18-80",
+        "income": "varied",
+        "location": "varied",
+        "example_customers": ["Michelle Perkins PhD", "Brian West", "Mrs. Anna Boyd DVM"]
+      },
+      "characteristics": {
+        "pain_points": ["decision_paralysis", "infrequent_needs", "price_sensitivity"],
+        "communication_preferences": ["simple_messaging", "clear_value_propositions", "limited_time_offers"],
+        "motivation_triggers": ["significant_discounts", "urgent_needs", "gift_occasions"],
+        "spending_patterns": {
+          "total_spent_range": "$100-$1,000",
+          "avg_order_value": "$100-$500",
+          "purchase_frequency": "very_low"
+        }
+      },
+      "reactivation_strategy": "Offer significant discounts, create urgency, focus on gift occasions and special events"
+    }
+  ]
+}
