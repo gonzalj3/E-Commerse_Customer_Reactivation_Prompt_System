@@ -42,11 +42,11 @@ prompt-engineering-customer-reactivation/
 
 ## Key Analysis & Synthesis
 
-![Email Evolution Example](outputs/v5_samples_with_Extended_Thinking_AND_article_content/screenshot.png)
+![Email Evolution Example](prompts_versions_and_email_results/v5_samples_with_Extended_Thinking_AND_article_content/screenshot.png)
 
 This project includes comprehensive analysis documents that synthesize the learnings and demonstrate real-world application:
 
-- **[Email Evolution Analysis](outputs/README.md)** - Detailed analysis of how progressive prompt engineering refinement creates more effective customer communications, showcasing the evolution from verbose technical messaging to concise, authentic reactivation emails
+- **[Email Evolution Analysis](prompts_versions_and_email_results/README.md)** - Detailed analysis of how progressive prompt engineering refinement creates more effective customer communications, showcasing the evolution from verbose technical messaging to concise, authentic reactivation emails
 - **[Business Impact Assessment](analysis/email_evolution_business_impact.md)** - Strategic evaluation of how advanced prompt engineering capabilities translate to competitive advantages for Allbirds, including brand equity preservation and customer trust enhancement
 
 These synthesis documents demonstrate the practical application of prompt engineering sophistication and provide actionable insights for sustainable fashion brands seeking to optimize customer lifecycle communications.
