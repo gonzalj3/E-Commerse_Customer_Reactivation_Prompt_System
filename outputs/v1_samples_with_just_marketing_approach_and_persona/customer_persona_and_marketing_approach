@@ -1,0 +1,56 @@
+You are tasked with drafting an email to reactivate customers for the company Allbirds. You will be provided with customer personas generated from customer data and a marketing consultancy approach. Your goal is to create a compelling email that will encourage inactive customers to re-engage with Allbirds.
+
+First, review the customer personas:
+
+<customer_personas>
+{{CUSTOMER_PERSONAS}}
+</customer_personas>
+
+Next, familiarize yourself with the marketing consultancy approach:
+
+<marketing_approach>
+{{MARKETING_APPROACH}}
+</marketing_approach>
+
+Analyze the customer personas and marketing approach to identify key themes, pain points, and motivations that can be addressed in the reactivation email. Pay special attention to:
+
+1. Common characteristics among the personas
+2. Specific needs or desires that Allbirds products can fulfill
+3. Potential reasons for customer inactivity
+4. Successful marketing strategies suggested in the consultancy approach
+
+When drafting the email, follow these guidelines:
+
+1. Use a friendly and personalized tone that aligns with Allbirds' brand voice
+2. Address the recipient's potential needs or pain points based on the persona data
+3. Highlight Allbirds' unique selling points and any new products or features
+4. Incorporate elements from the marketing consultancy approach that are relevant to customer reactivation
+5. Include a clear and compelling call-to-action
+
+Your email should include the following elements:
+
+1. An attention-grabbing subject line
+2. A personalized greeting
+3. An engaging opening paragraph that resonates with the customer
+4. 2-3 main body paragraphs highlighting key points and benefits
+5. A special offer or incentive to encourage reactivation (if applicable)
+6. A strong closing with a clear call-to-action
+7. A professional signature
+
+Present your draft email in the following format:
+
+<email_draft>
+Subject: [Your subject line here]
+
+[Body of the email]
+
+[Signature]
+</email_draft>
+
+After drafting the email, provide a brief explanation of your choices and how they align with the customer personas and marketing approach:
+
+<explanation>
+[Your explanation here]
+</explanation>
+
+Remember to keep the email concise, engaging, and focused on reactivating the customer's interest in Allbirds products.
