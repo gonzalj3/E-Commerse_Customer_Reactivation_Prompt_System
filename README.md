@@ -42,7 +42,7 @@ prompt-engineering-customer-reactivation/
 
 ## Key Analysis & Synthesis
 
-![Email Evolution Example](outputs/v5_samples_with_Extended_Thinking_AND_article_content/Screenshot%202025-08-05%20at%207.40.49%20PM.png)
+![Email Evolution Example](outputs/v5_samples_with_Extended_Thinking_AND_article_content/screenshot.png)
 
 This project includes comprehensive analysis documents that synthesize the learnings and demonstrate real-world application:
 
