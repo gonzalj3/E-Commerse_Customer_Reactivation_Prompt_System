@@ -42,6 +42,8 @@ prompt-engineering-customer-reactivation/
 
 ## Key Analysis & Synthesis
 
+![Email Evolution Example](outputs/v5_samples_with_Extended_Thinking_AND_article_content/Screenshot%202025-08-05%20at%207.40.49%20PM.png)
+
 This project includes comprehensive analysis documents that synthesize the learnings and demonstrate real-world application:
 
 - **[Email Evolution Analysis](outputs/README.md)** - Detailed analysis of how progressive prompt engineering refinement creates more effective customer communications, showcasing the evolution from verbose technical messaging to concise, authentic reactivation emails
